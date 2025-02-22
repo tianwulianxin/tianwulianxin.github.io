@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 想想的浏览器下载集合
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: 想想
 language: en
 timezone: ''
 
@@ -96,11 +96,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: ayer
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repository: git@github.com:tianwulianxin/browser.git
+  repository: git@github.com:tianwulianxin/tianwulianxin.github.io.git
   branch: master
