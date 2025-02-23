@@ -103,4 +103,4 @@ theme: ayer
 deploy:
   type: 'git'
   repository: git@github.com:tianwulianxin/tianwulianxin.github.io.git
-  branch: master
+  branch: main
